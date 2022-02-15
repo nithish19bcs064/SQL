@@ -1,6 +1,8 @@
-# SQL 
-## Case Study 
-Health Analytics Mini Case Study
+
+# Case Study 1
+
+![download (1)](https://user-images.githubusercontent.com/78999553/154083349-68834512-f67a-4fcf-a938-3192866fe323.png)
+
 
 We’ve just received an urgent request from the General Manager of Analytics at Health Co requesting our assistance with their analysis of the health.user_logs dataset.
 
